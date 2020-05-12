@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/flower"
+        android:title="口吐莲花" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/rainbow"
+        android:title="彩虹屁" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/chat"
+        android:title="毒鸡汤朋友圈" />
+
+</menu>
